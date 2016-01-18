@@ -114,3 +114,4 @@ This package exists because Fitbit's newest endpoints works only with OAuth 2.0 
 - [fitbit-js](https://github.com/smurthas/fitbit-js)
 - [node-fitbit](https://github.com/p-m-p/node-fitbit)
 
+test
